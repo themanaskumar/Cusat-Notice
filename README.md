@@ -89,6 +89,10 @@ cusat-notice/
 ## Setup Instructions
 
 1. Clone the repository
+   ```bash
+   # Clone the repository using the following link
+   https://github.com/themanaskumar/Cusat-Notice.git
+   ```
 2. Install dependencies:
    ```bash
    # Install backend dependencies
